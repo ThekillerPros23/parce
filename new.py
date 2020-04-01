@@ -1,4 +1,6 @@
-import os 
+from tkinter import * 
 
 
-os.mkdir("hello world")
+window = Tk()
+
+window.mainloop()
